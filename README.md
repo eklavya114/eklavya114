@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBudnI5eDN6eDVyeWFwaHh3Z3F4bXF6aDQ3aGFxZ2J2bTVvYzI4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="AI Neural Network Header" width="100%" style="border-radius: 10px;" />
-</div>
-
 <h1 align="center">Hi there 👋, my name is Eklavya Kumar Prasad</h1>
 
 <p align="center">
@@ -14,18 +10,11 @@
 
 ## 🚀 Professional Profile
 
-<table width="100%" border="0" align="center">
-  <tr>
-    <td width="65%" valign="top">
-      <p>I am a dedicated Computer Science professional specializing at the intersection of <b>Artificial Intelligence</b> and <b>Full-Stack Development</b>.</p>
-      <p>My expertise lies in architecting highly optimized, scalable deep learning models—ranging from complex convolutional neural networks (CNNs) for medical imaging to advanced Natural Language Processing (NLP) pipelines and time-series forecasting engines.</p>
-      <p>Beyond the algorithms, I build robust, high-fidelity web applications using the MERN stack and modern front-end frameworks. I focus on translating heavy data-processing backend systems into secure, cinematic, and intuitive user experiences.</p>
-    </td>
-    <td width="35%" align="center" valign="center">
-      <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" alt="Coding Aesthetic" width="100%" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+I am a dedicated Computer Science professional specializing at the intersection of **Artificial Intelligence** and **Full-Stack Development**.
+
+My expertise lies in architecting highly optimized, scalable deep learning models—ranging from complex convolutional neural networks (CNNs) for medical imaging to advanced Natural Language Processing (NLP) pipelines and time-series forecasting engines.
+
+Beyond the algorithms, I build robust, high-fidelity web applications using the MERN stack and modern front-end frameworks. I focus on translating heavy data-processing backend systems into secure, cinematic, and intuitive user experiences.
 
 ---
 
